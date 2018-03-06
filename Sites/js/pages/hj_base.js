@@ -1,0 +1,1 @@
+define(function(require,exports,module){function hjBase(){this.init()}var utility=new(utility=require("util"));hjBase.prototype.init=function(){utility.scrollTopFn("#backtop")},module.exports=new hjBase});

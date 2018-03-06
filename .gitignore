@@ -1,0 +1,11 @@
+#忽略dev 开发目录
+#忽略 src 目录
+node_modules/
+nbproject/
+src/
+data/
+dev/
+deploy
+.idea/
+.sass-cache/
+sftp-config.json

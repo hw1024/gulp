@@ -1,0 +1,1 @@
+define(function(require,exports,module){function hjIndex(){this.init()}var utility=new(utility=require("util"));hjIndex.prototype.init=function(){utility.wow()},hjIndex.prototype.bdSlide=function(obj,eff){utility.bdSlideFn(obj,eff)},module.exports=new hjIndex});
